@@ -1,0 +1,284 @@
+body {
+  background-color: white;
+  font-family: "Comic Sans MS";
+}
+
+html, body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: none;
+}
+
+.zone {
+  position: fixed;
+  cursor: pointer;
+}
+
+#bruh-text {
+  font-family: "Comic Sans MS";
+}
+
+#bruh-text {
+  position: fixed;
+  pointer-events: none;
+  user-select: none;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+#bruh-text.bruh1 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 24px; 
+  color: black; 
+}
+  
+#bruh-text.bruh2 {
+  font-family: "Comic Sans MS", Arial, sans-serif;
+  font-size: 56px;
+  color: DarkGoldenRod;
+}
+
+#bruh-text.bruh3 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 34px; 
+  color: DarkGray; 
+}
+
+#bruh-text.bruh4 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 50px; 
+  color: Magenta; 
+}
+
+#bruh-text.bruh5 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 30px; 
+  color: aquamarine; 
+}
+
+#bruh-text.bruh6 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 36px; 
+  color: BlueViolet; 
+}
+
+#bruh-text.bruh7 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 40px; 
+  color: Chartreuse; 
+}
+
+#bruh-text.bruh8 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 44px; 
+  color: Crimson; 
+}
+
+#bruh-text.bruh9 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 24px; 
+  color: DarkOrange; 
+}
+
+#bruh-text.bruh10 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 54px; 
+  color: DarkSlateBlue; 
+}
+
+#bruh-text.bruh11 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 14px; 
+  color: Gainsboro; 
+}
+
+#bruh-text.bruh12 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 30px; 
+  color: HotPink; 
+}
+
+#bruh-text.bruh13 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 36px; 
+  color: Gold; 
+}
+
+#bruh-text.bruh14 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 39px; 
+  color: Indigo; 
+}
+
+#bruh-text.bruh15 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 24px; 
+  color: LightGreen; 
+}
+
+#bruh-text.bruh16 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 18px; 
+  color: LightYellow; 
+}
+
+#bruh-text.bruh17 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 32px; 
+  color: OrangeRed; 
+}
+
+#bruh-text.bruh18 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 35px; 
+  color: RebeccaPurple; 
+}
+
+#bruh-text.bruh19 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 38px; 
+  color: Plum; 
+}
+    
+#bruh-text.bruh20 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 29px; 
+  color: Olive; 
+}
+
+#bruh-text.bruh21 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 22px; 
+  color: Sienna; 
+}
+
+#bruh-text.bruh22 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 24px; 
+  color: Tan; 
+}
+
+#bruh-text.bruh23 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 16px; 
+  color: Silver; 
+}
+
+#bruh-text.bruh24 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 32px; 
+  color: PaleVioletRed; 
+}
+
+#bruh-text.bruh25 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 38px; 
+  color: MidnightBlue; 
+}
+
+#bruh-text.bruh26 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 24px; 
+  color: Maroon; 
+}
+
+#bruh-text.bruh27 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 30px; 
+  color: Khaki; 
+}
+
+#bruh-text.bruh28 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 40px; 
+  color: Green; 
+}
+
+#bruh-text.bruh29 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 20px; 
+  color: DimGray; 
+}
+
+#bruh-text.bruh30 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 44px; 
+  color: Red; 
+}
+
+#bruh-text.bruh31 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 27px; 
+  color: DarkOliveGreen; 
+}
+
+#bruh-text.bruh32 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 20px; 
+  color: Aqua; 
+}
+
+#bruh-text.bruh33 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 37px; 
+  color: CadetBlue; 
+}
+
+#bruh-text.bruh34 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 47px; 
+  color: Fuchsia; 
+}
+
+#bruh-text.bruh35 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 17px; 
+  color: AliceBlue; 
+}
+
+#bruh-text.bruh36 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 27px; 
+  color: DarkOliveGreen; 
+}
+
+#bruh-text.bruh37 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 35px; 
+  color: GreenYellow; 
+}
+
+#bruh-text.bruh38 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 27px; 
+  color: Coral; 
+}
+
+#bruh-text.bruh39 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 22px; 
+  color: DimGray; 
+}
+
+#bruh-text.bruh40 { 
+  font-family: "Comic Sans MS"; 
+  font-size: 40px; 
+  color: Violet; 
+}
+
+#bruh-image {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  user-select: none;
+  z-index: 500; /* behind bruh text if you want */
+  max-width: 80%; /* or whatever size you want */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
