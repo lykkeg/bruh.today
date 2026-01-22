@@ -13,7 +13,10 @@ html, body {
 .zone {
   position: absolute;
   cursor: pointer;
+  width: 12.4%; 
+  height: 19.9%;
 }
+
 
 #bruh-text {
   font-family: "Comic Sans MS";
